@@ -12,7 +12,7 @@ namespace UD22
         {
             try
             {
-                SqlConnection conexion = new SqlConnection("Data Source=192.168.0.29;Initial Catalog=UD22;Persist Security Info=True;User ID=Eric;Password=Root_1234");
+                SqlConnection conexion = new SqlConnection("Data Source=192.168.1.43;Initial Catalog=UD23;Persist Security Info=True;User ID=sa;Password=Root1234");
                 conexion.Open();
                 SqlCommand comando = new SqlCommand(cadena, conexion);
                 comando.ExecuteNonQuery();
@@ -30,7 +30,7 @@ namespace UD22
         {
             try
             {
-                SqlConnection conexion = new SqlConnection("Data Source=192.168.0.29;Initial Catalog=UD22;Persist Security Info=True;User ID=Eric;Password=Root_1234");
+                SqlConnection conexion = new SqlConnection("Data Source=192.168.1.43;Initial Catalog=UD23;Persist Security Info=True;User ID=sa;Password=Root1234");
                 conexion.Open();
                 SqlCommand comando = new SqlCommand(cadena, conexion);
                 using (SqlDataReader reader = comando.ExecuteReader())

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursillos\\Ejercicios\\Proyectos\\UD22\\UD22\\UD22.csproj": {}
+    "D:\\Tic Curso Net\\UD23\\UD22\\UD22\\UD22.csproj": {}
   },
   "projects": {
-    "D:\\Cursillos\\Ejercicios\\Proyectos\\UD22\\UD22\\UD22.csproj": {
+    "D:\\Tic Curso Net\\UD23\\UD22\\UD22\\UD22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursillos\\Ejercicios\\Proyectos\\UD22\\UD22\\UD22.csproj",
+        "projectUniqueName": "D:\\Tic Curso Net\\UD23\\UD22\\UD22\\UD22.csproj",
         "projectName": "UD22",
-        "projectPath": "D:\\Cursillos\\Ejercicios\\Proyectos\\UD22\\UD22\\UD22.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursillos\\Ejercicios\\Proyectos\\UD22\\UD22\\obj\\",
+        "projectPath": "D:\\Tic Curso Net\\UD23\\UD22\\UD22\\UD22.csproj",
+        "packagesPath": "C:\\Users\\Cantore\\.nuget\\packages\\",
+        "outputPath": "D:\\Tic Curso Net\\UD23\\UD22\\UD22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cantore\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

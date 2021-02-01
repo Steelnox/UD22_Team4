@@ -17,3 +17,23 @@ D:\Cursillos\Ejercicios\Proyectos\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.csproj.
 D:\Cursillos\Ejercicios\Proyectos\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.dll
 D:\Cursillos\Ejercicios\Proyectos\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.pdb
 D:\Cursillos\Ejercicios\Proyectos\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.genruntimeconfig.cache
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\UD22.exe
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\UD22.deps.json
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\UD22.runtimeconfig.json
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\UD22.runtimeconfig.dev.json
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\UD22.dll
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\UD22.pdb
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tic Curso Net\UD23\UD22\UD22\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.csprojAssemblyReference.cache
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.AssemblyInfoInputs.cache
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.AssemblyInfo.cs
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.csproj.CoreCompileInputs.cache
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.csproj.CopyComplete
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.dll
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.pdb
+D:\Tic Curso Net\UD23\UD22\UD22\obj\Debug\netcoreapp3.1\UD22.genruntimeconfig.cache

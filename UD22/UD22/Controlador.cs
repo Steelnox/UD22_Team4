@@ -51,8 +51,35 @@ namespace UD22
                                 break;
                         }
                         break;
-                    default:
+                    case "2":
+                        Ejercicio2 ej2 = new Ejercicio2();
+
+                        switch (opcionTarea)
+                        {
+                            case "1":
+                                ej2.CreateTableCliente(db);
+                                ej2.CreateTableVideos(db);
+                                break;
+                            case "2":
+                                ej2.InsertTableCliente(db);
+                                ej2.InsertTableVideos(db);
+                                break;
+                            case "3":
+                                ej2.SelectTableCliente(db);
+                                ej2.SelectTableVideos(db);
+                                break;
+                            case "4":
+                                ej2.UpdateTable(db);
+                                break;
+                            case "5":
+                                ej2.DeleteTable(db);
+                                break;
+
+                            default: break;
+                        }
                         break;
+                    default: 
+                        break;                 
                 }
                 vista.menuSalir();
                 opcionSalir = Console.ReadLine();
