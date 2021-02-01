@@ -63,6 +63,7 @@ namespace UD22
                             case "2":
                                 ej2.InsertTableCliente(db);
                                 ej2.InsertTableVideos(db);
+
                                 break;
                             case "3":
                                 ej2.SelectTableCliente(db);
@@ -74,6 +75,38 @@ namespace UD22
                             case "5":
                                 ej2.DeleteTable(db);
                                 break;
+
+
+                            default: break;
+                        }
+                        break;
+                    case "3":
+                        Ejercicio3 ej3 = new Ejercicio3();
+
+                        switch (opcionTarea)
+                        {
+                            case "1":
+                                ej3.CrearTablaCientificos(db);
+                                ej3.CrearTablaProyectos(db);
+                                ej3.CrearTablaAsignado(db);
+                                break;
+                            case "2":
+                                ej3.InsertarTablaCientificos(db);
+                                ej3.InsertarTablaProyectos(db);
+                                ej3.InsertarTablaAsignar(db);
+                                break;
+                            case "3":
+                                ej3.SelectCientificos(db);
+                                ej3.SelectProyectos(db);
+                                ej3.SelectAsignar(db);
+                                break;
+                            case "4":
+                                ej3.UpdatesTables(db);
+                                break;
+                            case "5":
+                                ej3.DeleteTables(db);
+                                break;
+
 
                             default: break;
                         }
