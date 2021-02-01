@@ -6,7 +6,8 @@ namespace UD22
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Vista vista = new Vista();
+            Controlador controller = new Controlador(vista);
         }
     }
 }
